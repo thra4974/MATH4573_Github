@@ -1,3 +1,3 @@
 # MATH4573_Github
 Repository for testing github
-This is a line from RStudio
+This is a new line from RStudio
